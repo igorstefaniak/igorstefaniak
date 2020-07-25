@@ -1,0 +1,1 @@
+$(".fade").hide().fadeIn(800,"swing");
